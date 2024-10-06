@@ -1,0 +1,6 @@
+venv
+.vscode
+.cache
+.env
+config.json
+store.json
